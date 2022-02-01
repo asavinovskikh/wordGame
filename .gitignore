@@ -24,3 +24,13 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+.idea/compiler.xml
+.idea/misc.xml
+.idea/sonarlint/
+.idea/uiDesigner.xml
+.idea/workspace.xml
+src/main/java/ru/anik/word/UserInterfase.java
+src/main/resources/
+src/test/
+target/generated-sources/
+word.iml
